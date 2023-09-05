@@ -1,0 +1,44 @@
+.full-width{
+    width: 100%;
+}
+.reg_button{
+    background: rgb(76, 115, 187);
+    border-radius: 9px;
+    color: white;
+    margin-right: 20px;
+    width: 17%;
+    height: 35px;
+    border-color: white;
+    font-weight: bolder;
+}
+
+:hover.reg_button
+{
+    background: white;
+    border-radius: 9px;
+    color: rgb(76, 115, 187);
+    width: 17%;
+    margin-right: 20px;
+
+    height: 35px;
+    border-color: rgb(76, 115, 187);
+    font-weight: bolder;
+}
+.clear_button{
+    background: rgb(187, 76, 172);
+    border-radius: 9px;
+    color: white;
+    width: 17%;
+    height: 35px;
+    border-color: white;
+    font-weight: bolder;
+}
+:hover.clear_button{
+    background: white;
+    border-radius: 9px;
+    color: rgb(187, 76, 172);
+    width: 17%;
+    height: 35px;
+    border-color: rgb(187, 76, 172);
+    font-weight: bolder;
+}
